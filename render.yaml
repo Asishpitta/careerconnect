@@ -27,11 +27,11 @@ services:
     staticPublishPath: dist
     envVars:
       - key: VITE_API_BASE_URL
-        value: https://careerconnect-backend.onrender.com/api
+        value: https://careerconnect-backend-im49.onrender.com/api
     routes:
       - type: rewrite
         source: /api/*
-        destination: https://careerconnect-backend.onrender.com/api/*
+        destination: https://careerconnect-backend-im49.onrender.com/api/*
       - type: rewrite
         source: /*
         destination: /index.html
