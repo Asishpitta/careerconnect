@@ -13,6 +13,17 @@
 
 ---
 
+## 🚀 Live Production Links
+
+| Resource | Live Link | Description |
+|---|---|---|
+| 🌐 **Live Frontend Application** | [**https://careerconnect-frontend-mfsl.onrender.com**](https://careerconnect-frontend-mfsl.onrender.com) | Full web UI (Job search, candidate, recruiter & admin portals) |
+| ⚙️ **Live Backend REST API** | [**https://careerconnect-backend-im49.onrender.com/api/jobs**](https://careerconnect-backend-im49.onrender.com/api/jobs) | Spring Boot 3.3.4 (Java 21) REST API |
+| 📖 **Interactive Swagger / API Docs** | [**https://careerconnect-backend-im49.onrender.com/swagger-ui/index.html**](https://careerconnect-backend-im49.onrender.com/swagger-ui/index.html) | Interactive OpenAPI / Swagger UI |
+| 💓 **Backend Health Check** | [**https://careerconnect-backend-im49.onrender.com/actuator/health**](https://careerconnect-backend-im49.onrender.com/actuator/health) | Spring Boot Actuator status |
+
+---
+
 ## 🏛️ System Architecture
 
 ```mermaid
